@@ -1,24 +1,3 @@
 {
-  "users": [
-    {
-      "email": "krist@dot.com",
-      "password": "$2a$10$rYnlwhJppDyNicbanHv54uMz3/2i8BBJ1O4a9qZ/JbAoAJ9ZNMNG.",
-      "id": 1
-    },
-    {
-      "email": "kristuw@ukr.net",
-      "password": "$2a$10$b6zjDZlBU6zwmBizbrri5uCkZIrlc.To7uYVJLh1ZwwpNYXdUt5di",
-      "id": 2
-    },
-    {
-      "email": "kristuwa15@com",
-      "password": "$2a$10$oKjsbY5Kt6a/S69SB9Epa.0IYGjYLxX3qaccD6XZTLDyP4yrZvCF2",
-      "id": 3
-    },
-    {
-      "email": "krs@goo.com",
-      "password": "$2a$10$Qa.2gDogQ6curSvMVIqEMuIYWDP5V09wHhfX.1DcklwbqX7OzvzFy",
-      "id": 4
-    }
-  ]
+  "users": []
 }
